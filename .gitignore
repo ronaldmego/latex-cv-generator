@@ -45,6 +45,7 @@ wheels/
 inspiration.md
 cv_template.tex
 index_template.md
+cv.tex
 Dockerfile
 
 #Ignore Folder or subfolders
