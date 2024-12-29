@@ -1,0 +1,14 @@
+{
+    "section_name": "Languages",
+    "languages": [
+        {
+            "name": "English",
+            "level": "Fluent"
+        },
+        {
+            "name": "Spanish",
+            "level": "Fluent",
+            "note": "Native"
+        }
+    ]
+}

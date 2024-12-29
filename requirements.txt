@@ -1,0 +1,4 @@
+# Versiones específicas de las dependencias necesarias para generar el CV
+json5==0.9.14
+# Estas son las dependencias básicas que tu script necesita
+# Agregamos más si el script falla por falta de alguna

@@ -1,0 +1,86 @@
+{
+    "experiences": [
+        {
+            "dates": "08/2023 ‐ present",
+            "company": "Millicom | Tigo",
+            "url": "https://www.millicom.com/",
+            "title": "Regional Head of Data (CDAO)",
+            "location": "Panama City, PA",
+            "bullets": [
+                "Design and lead advanced analytics frameworks and standards across countries, ensuring data quality and consistency, driving advanced customer segmentation, predictive analytics, and 1st-party data monetization, generating new revenue streams.",
+                "Spearhead Millicom’s Artificial Intelligence roadmap across countries, implementing innovative AI solutions such as RAG-based LLM Chatbots for analytics-driven automation and insights generation, enabling data-informed decisions, improving customer service processes, and driving operational efficiencies.",
+                "Build and execute the Regional Data Roadmap, achieving a 35% YoY cost optimization by migrating over 400 processes and 70 dashboards from Tableau to Power BI and transitioning Snowflake and AWS workloads, while maintaining seamless delivery of insights and analytical capabilities across the organization.",
+                "Establish and monitor Data Governance practices for 50MM Telco and 5MM MFS users, ensuring data quality and providing accurate data and reports to HQ, specialized teams, and global stakeholders.",
+                "Lead a team of 9 direct reports and oversee indirect teams across countries, coordinating with global vendors and senior leadership to align analytics initiatives with organizational priorities and deliver impactful results."
+            ]            
+        },
+        {
+            "dates": "12/2021 ‐ 07/2023",
+            "company": "Millicom | Tigo",
+            "url": "https://www.millicom.com/",
+            "title": "Regional Head of Customer Intelligence",
+            "location": "Panama City, PA",
+            "bullets": [
+                "Design and lead the Customer Intelligence strategy across 6 countries, driving customer engagement, loyalty, and revenue growth by integrating advanced analytics with business objectives, reporting directly to the CMO.",
+                "Develop and implement customer behavior models, including lifetime value (LTV) and marketing mix analytics, optimizing marketing budgets, reducing churn by 10 p.p., and driving measurable revenue growth.",
+                "Introduce revenue analytics through RGUs segmentation, designing next best offer (NBO) strategies with dynamic data pipelines, achieving up to 5% elasticity in targeted campaigns and enhancing personalization.",
+                "Build and deploy customer behavioral segmentation models to personalize loyalty and engagement campaigns using tools like Braze and AWS, reducing customer acquisition costs (CAC) and increasing conversion rates by 5 p.p.",
+                "Establish and grow the analytics team from the ground up, accelerating insights delivery, standardizing reporting processes, and fostering a data-driven culture across headquarters and regional operations.",
+                "Lead a team of 8 direct reports and oversee indirect teams across the region, ensuring alignment with strategic goals and delivering actionable insights to senior stakeholders."
+            ]            
+        },        
+        {
+            "dates": "11/2019 ‐ 11/2021",
+            "company": "Grupo El Comercio",
+            "url": "https://grupoelcomercio.com.pe/",
+            "title": "Data Manager",
+            "location": "Lima, PE",
+            "bullets": [
+                "Develop user segmentation models and content recommendation models, supporting business objectives related to subscription growth and engagement.",
+                "Manage analytics tools to grow digital audiences, using real-time A/B testing with Chartbeat and Comscore.",
+                "Lead data architecture projects using BigQuery and QlikView for the administration of the digital group’s data.",
+                "Implement a zero and 1st (first) party data consolidation project into a golden record, enabling audience data monetization and the generation of new revenue streams.",
+                "Develop B2B and B2C dashboards to support strategies for digitalization and data monetization in programmatic advertising, using Google Analytics and Chartbeat.",
+                "Lead and promote the adoption of automation through RPA (Robotic Process Automation) with Artificial Intelligence, successfully automating manual tasks between accounting operations and the reading of KPIs from various external sources.",
+                "Supervise and guide a team of 8 direct reports, ensuring alignment with business goals."
+            ]
+        },
+        {
+            "dates": "11/2016 ‐ 10/2019",
+            "company": "Telefonica | Movistar",
+            "url": "https://telefonica.com.pe/",
+            "title": "Customer Insights Manager",
+            "location": "Lima, PE",
+            "bullets": [
+                "Manage and model data for 17 million customers across home, prepaid, and postpaid products, establishing a single source of truth (SSOT) to support the Customer 360 business strategy, enhancing customer satisfaction and campaign effectiveness.",
+                "Develop dashboards for sales, collections, and customer support, and implement the first text mining model to analyze customer satisfaction in chatbot interactions.",
+                "Provide advanced fraud detection analytics to identify sales fraud among channels, partners, and vendors.",
+                "Supervise and guide a team of 15 direct reports, ensuring alignment with business goals."
+            ]
+        }
+        ,
+        {
+            "dates": "08/2009 ‐ 10/2016",
+            "company": "Telefónica | Movistar",
+            "url": "https://telefonica.com.pe/",
+            "title": "Customer Data Specialist",
+            "location": "Lima, PE",
+            "bullets": [
+                "Delivered robust, customer-centric, and commercially monetizable data solutions, earning outstanding recognition for achievements.",
+                "Developed analytical models for marketing, sales, customer experience, and collections, optimizing strategies for B2C mobile prepaid, postpaid, and home services."
+            ]
+        },
+        {
+            "dates": "03/2016 ‐ 08/2016",
+            "company": "Universidad Nacional de Ingenieria",
+            "url": "https://portal.uni.edu.pe/",
+            "title": "Professor of Applied Computational Statistics",
+            "location": "Lima, PE",
+            "bullets": [
+                "Utilize innovative teaching methods and interactive tools to simplify complex statistical concepts, resulting in a 20% reduction in student dropout rates and increased confidence in learning.",
+                "Design and execute curriculum incorporating real-world business case studies and data analysis projects, effectively bridging the gap between theoretical knowledge and practical application.",
+                "Mentor students on academic and career paths in data science and statistics, with several students successfully securing internships and roles in top-tier companies."
+            ]
+        }        
+    ]
+}

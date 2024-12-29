@@ -1,0 +1,21 @@
+{
+    "section_name": "Skills",
+    "skills": [
+        {
+            "category": "Data Story Telling",
+            "tools": ["PowerBI", "Shiny", "Streamlit", "Tableau", "Looker Studio", "QuickSight"]
+        },
+        {
+            "category": "Programming and Cloud",
+            "tools": ["R", "Python", "SQL","Spark","Snowflake", "Redshift", "BigQuery", "Synapse","CI/CD", "ML Ops","Airflow"]
+        },
+        {
+            "category": "Machine Learning and AI",
+            "tools": ["Statistical Modeling", "PyTorch", "TensorFlow", "SageMaker","OpenAI", "LangChain", "RAG","Bedrock"]
+        },
+        {
+            "category": "Soft Skills",
+            "tools": ["Leadership", "Communication", "Team Collaboration", "Problem Solving", "Presentation Skills"]
+        }
+    ]
+}
