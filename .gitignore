@@ -1,3 +1,6 @@
+# Secrets
+.env
+
 # LaTeX temporary files
 *.aux
 *.log
