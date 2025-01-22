@@ -44,12 +44,5 @@ wheels/
 *.swo
 .DS_Store
 
-# Project specific
-inspiration.md
-cv_template.tex
-index_template.md
-cv.tex
-Dockerfile
-
 #Ignore Folder or subfolders
-**/ref*
+ref/

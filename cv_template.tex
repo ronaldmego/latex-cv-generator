@@ -1,0 +1,86 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+\moderncvstyle{banking}
+\moderncvcolor{black}
+\nopagenumbers{}
+\usepackage[utf8]{inputenc}
+\usepackage{ragged2e}
+\usepackage[scale=0.915]{geometry}
+\usepackage{import}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{amssymb}
+\usepackage{enumitem}
+
+% Sobrescribir estilos para nombre
+\renewcommand*{\namefont}{\color{black}\bfseries\Huge}
+\renewcommand*{\namestyle}[2]{\namefont #1~#2}
+
+% Sobrescribir estilos para secciones
+\renewcommand{\sectionfont}{\color{black}\Large\bfseries}
+\renewcommand{\subsectionfont}{\color{black}\large\bfseries}
+
+\name{\textbf{\textcolor{black}{{{ name }}}}}{\textbf{\textcolor{black}{{{ lastname }}}}}
+
+\newcommand*{\customcventry}[7][.13em]{
+\begin{tabular}{@{}l}
+{\bfseries #4} \
+{\itshape #3}
+\end{tabular}
+\hfill
+\begin{tabular}{l@{}}
+{\bfseries #5} \
+{\itshape #2}
+\end{tabular}
+\ifx&#7&%
+\else{\ %
+\begin{minipage}{\maincolumnwidth}%
+\small#7%
+\end{minipage}}\fi%
+\par\addvspace{#1}}
+
+\begin{document}
+
+\makecvtitle
+\vspace*{-12mm}
+
+\begin{center}\textbf{{{ header }}}\end{center}
+
+\vspace{-1.7em}
+
+\begin{center}
+\begin{tabular}{ c c c c c c }
+\faMobile {{{ mobile }}} & \enspace  \emailsymbol {{{ email }}} & \enspace \faHome {{{ location }}} & 
+\enspace \faGlobe \href{{{{ x_url }}}}{\textcolor{blue}{Web}} &
+\enspace \faGithub \href{{{{ github_url }}}}{\textcolor{blue}{github}} &
+\enspace \faLinkedin \href{{{{ linkedin_url }}}}{\textcolor{blue}{LinkedIn}}
+\end{tabular}
+\end{center}
+
+\vspace{-1.5em}
+
+\section{Profile}
+{{ profile }}
+
+\vspace{-0.5em}
+
+\section{Professional Experience}
+{{ work_experience }}
+
+\vspace{-0.8em}
+
+\section{Education}
+{{ education }}
+
+\vspace{-0.8em}
+
+{{ optional_sections }}
+
+\vspace{-1.5em}
+
+{{ skills_section }}
+
+\vspace{-1.5em}
+
+{{ languages_section }}
+
+\end{document}
