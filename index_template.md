@@ -12,9 +12,6 @@ title: Ronald Mego - Data
   </div>
 
   <div class="contact-info">
-    <a href="tel:{{ personal.mobile }}" class="contact-item">
-      <i class="fas fa-phone"></i> {{ personal.mobile }}
-    </a>
     <a href="mailto:{{ personal.email }}" class="contact-item">
       <i class="fas fa-envelope"></i> {{ personal.email }}
     </a>

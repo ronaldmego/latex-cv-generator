@@ -1,14 +1,25 @@
 {
     "experiences": [
         {
-            "dates": "08/2023 ‐ present",
+            "dates": "01/2025 ‐ present",
             "company": "Millicom | Tigo",
             "url": "https://www.millicom.com/",
-            "title": "Regional Head of Data",
+            "title": "Data Analytics and Innovation Manager",
             "location": "Panama City, PA",
             "bullets": [
+                "Lead the development and execution of Millicom's AI Roadmap and Strategy",
                 "Design and lead advanced analytics frameworks and standards across countries, ensuring data quality and consistency, driving advanced customer segmentation, predictive analytics, and 1st-party data monetization, generating new revenue streams.",
-                "Spearhead Millicom’s Artificial Intelligence roadmap across countries, implementing innovative AI solutions such as RAG-based LLM Chatbots for analytics-driven automation and insights generation, enabling data-informed decisions, improving customer service processes, and driving operational efficiencies.",
+                "Spearhead Millicom’s Artificial Intelligence roadmap across countries, implementing innovative AI solutions such as RAG-based LLM Chatbots for analytics-driven automation and insights generation, enabling data-informed decisions, improving customer service processes, and driving operational efficiencies."
+            ]            
+        },
+        {
+            "dates": "08/2023 ‐ 12/2024",
+            "company": "Millicom | Tigo",
+            "url": "https://www.millicom.com/",
+            "title": "Head of Data - MFS",
+            "location": "Panama City, PA",
+            "bullets": [
+                "Lead and execute Tigo Money's Data Strategy to drive business outcomes and operational efficiencies.",
                 "Build and execute the Regional Data Roadmap, achieving a 35% YoY cost optimization by migrating over 400 processes and 70 dashboards from Tableau to Power BI and transitioning Snowflake and AWS workloads, while maintaining seamless delivery of insights and analytical capabilities across the organization.",
                 "Establish and monitor Data Governance practices for 50MM Telco and 5MM MFS users, ensuring data quality and providing accurate data and reports to HQ, specialized teams, and global stakeholders.",
                 "Lead a team of 9 direct reports and oversee indirect teams across countries, coordinating with global vendors and senior leadership to align analytics initiatives with organizational priorities and deliver impactful results."
@@ -18,7 +29,7 @@
             "dates": "12/2021 ‐ 07/2023",
             "company": "Millicom | Tigo",
             "url": "https://www.millicom.com/",
-            "title": "Regional Head of Customer Intelligence",
+            "title": "Head of Marketing Analytics - MFS",
             "location": "Panama City, PA",
             "bullets": [
                 "Design and lead the Customer Intelligence strategy across 6 countries, driving customer engagement, loyalty, and revenue growth by integrating advanced analytics with business objectives, reporting directly to the CMO.",
