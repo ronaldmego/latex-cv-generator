@@ -3,19 +3,23 @@
     "skills": [
         {
             "category": "Data Story Telling",
-            "tools": ["PowerBI", "Shiny", "Streamlit", "Tableau", "Looker Studio", "QuickSight"]
+            "tools": ["Advanced Excel", "Advanced Power Point", "PowerBI", "Tableau", "Looker Studio", "QuickSight","Shiny", "Streamlit"]
         },
         {
-            "category": "Programming and Cloud",
-            "tools": ["R", "Python", "SQL","Spark","Snowflake", "Redshift", "BigQuery", "Synapse","CI/CD", "ML Ops","Airflow"]
+            "category": "Data tools",
+            "tools": ["Python", "R", "SQL", "Spark", "Hadoop", "Snowflake", "Redshift", "BigQuery", "Synapse", "CI/CD", "ML Ops", "Airflow"]
         },
         {
-            "category": "Machine Learning and AI",
-            "tools": ["Statistical Modeling", "PyTorch", "TensorFlow", "SageMaker","OpenAI", "LangChain", "RAG","Bedrock"]
+            "category": "Financial Skills",
+            "tools": ["Financial Modeling", "Revenue Forecasting", "Cost Analysis", "Pricing Strategy", "Profitability Analysis"]
+        },
+        {
+            "category": "Data Strategy",
+            "tools": ["Data Governance", "Data Quality", "Data Monetization", "Data Privacy", "Data Security", "Data Ethics"]
         },
         {
             "category": "Soft Skills",
-            "tools": ["Leadership", "Communication", "Team Collaboration", "Problem Solving", "Presentation Skills"]
+            "tools": ["Leadership", "Communication", "Team Collaboration", "Problem Solving", "Impactull Presentation Skills"]
         }
     ]
 }
