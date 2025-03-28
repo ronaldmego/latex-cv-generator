@@ -57,8 +57,8 @@ title: {personal_data['name']} {personal_data['lastname']} - Professional Backgr
 
 <div class="professional-banner smaller">
   <div class="banner-content">
-    <h1>Ronald Mego - Professional Background</h1>
-    <p class="tagline">15+ years transforming data into strategic value.</p>
+    <h1>Ronald Mego</h1>
+    <p class="tagline">Professional Background</p>
   </div>
 </div>
 
