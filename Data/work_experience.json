@@ -8,7 +8,7 @@
             "location": "Panama City, PA",
             "bullets": [
                 "Lead and develop a Data Analytics Roadmap to enhance Tigo Users Digital experience (~50 million), leveraging AI and Machine Learning models.",
-                "Design and implement a Data Monetization Strategy to drive new revenue streams and optimize costs, aligning with the Global CDO."
+                "Design and implement a Data Governance and Monetization Strategy to drive new revenue streams and optimize costs, aligning with the Global CDO."
             ]            
         },
         {
@@ -18,7 +18,7 @@
             "title": "Head of Data - MFS",
             "location": "Panama City, PA",
             "bullets": [
-                "Leading Tigo Money's data strategy across data governance, analytics and dashboarding to enable monetizable use cases while ensuring compliance standards.",
+                "Leading Tigo Money's data strategy across Data Governance, analytics and dashboarding to enable monetizable use cases while ensuring compliance standards.",
                 "Implement Data Analytics tools andframewrok for Mobile Financial Services with Lending Risk management, Fraud detection and Customer Insights."
             ]            
         },
@@ -40,7 +40,7 @@
             "title": "Data Manager",
             "location": "Lima, PE",
             "bullets": [
-                "Develop user segmentation models and content recommendation models, supporting business objectives related to subscription growth and engagement.",
+                "Lead Data Governance and Develop user segmentation models and content recommendation models, supporting business objectives related to subscription growth and engagement.",
                 "Implement a zero and 1st (first) party data consolidation project into a golden record, enabling audience data monetization and the generation of new revenue streams."
             ]
         },
@@ -51,11 +51,10 @@
             "title": "Customer Insights Manager",
             "location": "Lima, PE",
             "bullets": [
-                "Manage and model data for 17 million customers across home, prepaid, and postpaid products, establishing a single source of truth (SSOT) to support the Customer 360 business strategy, enhancing customer satisfaction and campaign effectiveness.",
+                "Data Governance for 17 million customers across home, prepaid, and postpaid products, establishing a single source of truth (SSOT) to support the Customer 360 business strategy, enhancing customer satisfaction and campaign effectiveness.",
                 "Develop dashboards for sales, collections, and customer support, and implement the first text mining model to analyze customer satisfaction in chatbot interactions."
             ]
-        }
-        ,
+        },
         {
             "dates": "08/2009 ‐ 10/2016",
             "company": "Telefónica | Movistar",
