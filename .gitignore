@@ -1,6 +1,50 @@
-# Secrets
-.env
+# ===== CREDENCIALES Y SECRETOS =====
+# Archivos de credenciales y secretos
+*.env
+.env*
+*secret*
+*password*
+*credential*
+*key*
 
+# Archivos de configuración con credenciales
+config.json
+credentials.json
+secrets.json
+*.key
+*.pem
+*.p12
+*.pfx
+
+# ===== DATOS PERSONALES DEL CV =====
+# Archivos de CV generados con datos personales
+cv.pdf
+cv.tex
+
+# Datos personales en la carpeta Data (se reemplazarán con ejemplos)
+Data/
+
+# ===== ARCHIVOS TEMPORALES =====
+# Logs
+*.log
+logs/
+
+# Archivos temporales
+*.tmp
+*.temp
+*~
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===== LENGUAJES ESPECÍFICOS =====
 # LaTeX temporary files
 *.aux
 *.log

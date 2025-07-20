@@ -1,0 +1,28 @@
+{
+    "education": [
+        {
+            "dates": "2010-2014",
+            "url": "https://www.university.edu/degree",
+            "institution": "Universidad Politécnica de Madrid",
+            "degree": "BSc. Computer Science",
+            "location": "Madrid, Spain",
+            "details": "Thesis Project: \"Development of a web-based learning management system using modern JavaScript frameworks\". Graduated with honors."
+        },
+        {
+            "dates": "2015-2017",
+            "url": "https://www.businessschool.edu/mba",
+            "institution": "IE Business School",
+            "degree": "Master in Business Administration (MBA)",
+            "location": "Madrid, Spain",
+            "details": "Thesis Project: \"Digital transformation strategies for traditional retail companies\". Specialized in Technology Management."
+        },
+        {
+            "dates": "2023-2023",
+            "url": "https://www.coursera.org/specialization",
+            "institution": "Coursera",
+            "degree": "Professional Certificate in Cloud Architecture",
+            "location": "Online",
+            "details": "Comprehensive program covering AWS, Azure, and Google Cloud Platform services and best practices."
+        }
+    ]
+} 

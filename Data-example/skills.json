@@ -1,0 +1,33 @@
+{
+    "section_name": "Skills",
+    "skills": [
+        {
+            "category": "Programming Languages",
+            "tools": ["JavaScript", "TypeScript", "Python", "Java", "C#", "PHP"]
+        },
+        {
+            "category": "Frontend Development",
+            "tools": ["React", "Vue.js", "Angular", "HTML5", "CSS3", "Sass", "Bootstrap", "Tailwind CSS"]
+        },
+        {
+            "category": "Backend Development",
+            "tools": ["Node.js", "Express.js", "Django", "Flask", "Spring Boot", ".NET Core"]
+        },
+        {
+            "category": "Database & ORM",
+            "tools": ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Mongoose", "Sequelize", "Prisma"]
+        },
+        {
+            "category": "Cloud & DevOps",
+            "tools": ["AWS", "Azure", "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "Terraform"]
+        },
+        {
+            "category": "Testing & Quality",
+            "tools": ["Jest", "Cypress", "Selenium", "Postman", "JUnit", "ESLint", "Prettier"]
+        },
+        {
+            "category": "Soft Skills",
+            "tools": ["Team Leadership", "Agile Methodologies", "Code Review", "Technical Documentation", "Problem Solving"]
+        }
+    ]
+} 

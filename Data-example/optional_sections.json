@@ -1,0 +1,56 @@
+{
+    "sections": [
+        {
+            "section_name": "Certifications and Training",
+            "items": [
+                {
+                    "name": "AWS Certified Solutions Architect",
+                    "date": "Mar. 2024",
+                    "url": "https://www.credly.com/badges/example",
+                    "institution": "Amazon Web Services"
+                },
+                {
+                    "name": "Google Cloud Professional Developer",
+                    "date": "Jan. 2024",
+                    "url": "https://www.credential.net/example",
+                    "institution": "Google Cloud"
+                },
+                {
+                    "name": "Certified Scrum Master (CSM)",
+                    "date": "Nov. 2023",
+                    "url": "https://www.scrumalliance.org/example",
+                    "institution": "Scrum Alliance"
+                },
+                {
+                    "name": "React Developer Certification",
+                    "date": "Sep. 2023",
+                    "url": "https://www.meta.com/example",
+                    "institution": "Meta"
+                }
+            ]
+        },
+        {
+            "section_name": "Projects and Open Source",
+            "items": [
+                {
+                    "name": "E-commerce Platform",
+                    "date": "2023",
+                    "url": "https://github.com/juanperez/ecommerce",
+                    "institution": "Personal Project"
+                },
+                {
+                    "name": "Task Management API",
+                    "date": "2022",
+                    "url": "https://github.com/juanperez/task-api",
+                    "institution": "Open Source Contribution"
+                },
+                {
+                    "name": "Weather Dashboard",
+                    "date": "2022",
+                    "url": "https://github.com/juanperez/weather-app",
+                    "institution": "Personal Project"
+                }
+            ]
+        }
+    ]
+} 

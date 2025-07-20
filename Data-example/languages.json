@@ -1,0 +1,18 @@
+{
+    "section_name": "Languages",
+    "languages": [
+        {
+            "name": "Spanish",
+            "level": "Fluent",
+            "note": "Native"
+        },
+        {
+            "name": "English",
+            "level": "Fluent"
+        },
+        {
+            "name": "French",
+            "level": "Intermediate"
+        }
+    ]
+} 

@@ -1,0 +1,12 @@
+{
+    "name": "Juan",
+    "lastname": "Pérez",
+    "header": "Sr. Software Engineer | Full Stack Development | Cloud Architecture | Web Technologies",
+    "linkedin_url": "https://www.linkedin.com/in/juanperez/",
+    "github_url": "https://github.com/juanperez",
+    "x_url": "https://juanperez.dev/",
+    "twitter_url": "https://x.com/juanperez",
+    "mobile": "+1 555 123 4567",
+    "email": "juan.perez@email.com",
+    "location": "Madrid, Spain"
+} 
