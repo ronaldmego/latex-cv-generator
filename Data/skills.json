@@ -1,0 +1,33 @@
+{
+    "section_name": "Skills",
+    "skills": [
+        {
+            "category": "Data Strategy",
+            "tools": ["Data Governance", "Data Quality", "Data Monetization", "Data Privacy", "Data Security", "Data Ethics"]
+        },
+        {
+            "category": "Soft Skills",
+            "tools": ["Leadership", "Team Management", "Project Management", "Agile Methodologies", "Stakeholder Management"]
+        },
+        {
+            "category": "Financial Skills",
+            "tools": ["Financial Modeling", "Revenue Forecasting", "Cost Analysis", "Pricing Strategy", "Profitability Analysis"]
+        },
+        {
+            "category": "Machine Learning",
+            "tools": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning", "Deep Learning", "Natural Language Processing"]
+        },
+        {
+            "category": "Cloud & DevOps",
+            "tools": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Terraform"]
+        },
+        {
+            "category": "Data Story Telling",
+            "tools": ["Advanced Excel", "Advanced Power Point", "PowerBI", "Tableau", "Looker Studio", "QuickSight","Shiny", "Streamlit"]
+        },
+        {
+            "category": "Data tools",
+            "tools": ["Python", "R", "SQL", "Spark", "Hadoop", "Snowflake", "Redshift", "BigQuery", "Synapse", "CI/CD", "ML Ops", "Airflow"]
+        }
+    ]
+}
