@@ -4,11 +4,12 @@
             "dates": "01/2025 ‐ present",
             "company": "Millicom | Tigo",
             "url": "https://www.millicom.com/",
-            "title": "Head of Data Analytics and Digital",
-            "location": "Panama City, PA",
+            "title": "Head of Data Analytics - Digital",
+            "location": "Panamá, PA",
             "bullets": [
-                "Lead and develop a Data Analytics Roadmap to enhance Tigo Users Digital experience (~50 million), leveraging AI and Machine Learning models.",
-                "Design and implement a Data Governance and Monetization Strategy to drive new revenue streams and optimize costs, aligning with the Global CDO."
+                "Lidero el modelado, análisis y centralización de datos del ecosistema digital en 9 países, mejorando la experiencia de ~50M de usuarios.",
+                "Soy responsable de la eficiencia y disponibilidad de analítica en la nube, habilitando soluciones y KPIs compartidos entre países.",
+                "Dirijo laboratorio de Agentes IA y analítica avanzada (RAG, ML) para optimizar operaciones telco y generar insights."
             ]            
         },
         {
@@ -16,54 +17,76 @@
             "company": "Millicom | Tigo",
             "url": "https://www.millicom.com/",
             "title": "Head of Data - MFS",
-            "location": "Panama City, PA",
+            "location": "Panamá, PA",
             "bullets": [
-                "Leading Tigo Money's data strategy across Data Governance, analytics and dashboarding to enable monetizable use cases while ensuring compliance standards.",
-                "Implement Data Analytics tools andframewrok for Mobile Financial Services with Lending Risk management, Fraud detection and Customer Insights."
+                "Lideré la estrategia de datos regional para Tigo Money, consolidando arquitectura, modelos analíticos, calidad y control de costos en la nube.",
+                "Implementé herramientas y framework para Lending Risk, Fraud detection y Customer Insights, reduciendo costos y asegurando cumplimiento."
             ]            
         },
         {
             "dates": "12/2021 ‐ 07/2023",
             "company": "Millicom | Tigo",
             "url": "https://www.millicom.com/",
-            "title": "Head of Marketing Analytics - MFS",
-            "location": "Panama City, PA",
+            "title": "Head of Customer Intelligence - Tigo Money",
+            "location": "Panamá, PA",
             "bullets": [
-                "Design and lead the Customer Segmentation and Campaign Management strategy powered by Customer Intelligence for Tigo Money, aligned with the Global CMO",
-                "Develop and implement a Digital Marketing Analytics framework to measure the effectiveness of marketing campaigns, optimizing the funnel conversion and increasing ROI."
+                "Diseñé e implementé la estrategia de segmentación y gestión de campañas basada en Customer Intelligence, alineada con el Global CMO.",
+                "Desarrollé framework de analítica de marketing digital para medir efectividad y optimizar conversión del embudo, logrando 3.5x en engagement."
             ]            
         },        
         {
             "dates": "11/2019 ‐ 11/2021",
-            "company": "Grupo El Comercio",
+            "company": "El Comercio News & Media Group",
             "url": "https://grupoelcomercio.com.pe/",
-            "title": "Data Manager",
+            "title": "Manager of Data & Analytics",
             "location": "Lima, PE",
             "bullets": [
-                "Lead Data Governance and Develop user segmentation models and content recommendation models, supporting business objectives related to subscription growth and engagement.",
-                "Implement a zero and 1st (first) party data consolidation project into a golden record, enabling audience data monetization and the generation of new revenue streams."
+                "Lideré la estrategia de Data Governance y monetización de audiencias; analítica centralizada en 8 marcas y migración del data lake a la nube.",
+                "Construí MDM para datos zero/first-party; consolidé 23 silos en una SSOT y estandaricé dashboards (QlikView → PowerBI)."
             ]
         },
         {
             "dates": "11/2016 ‐ 10/2019",
             "company": "Telefonica | Movistar",
             "url": "https://telefonica.com.pe/",
-            "title": "Customer Insights Manager",
+            "title": "Manager of Customer Intelligence",
             "location": "Lima, PE",
             "bullets": [
-                "Data Governance for 17 million customers across home, prepaid, and postpaid products, establishing a single source of truth (SSOT) to support the Customer 360 business strategy, enhancing customer satisfaction and campaign effectiveness.",
-                "Develop dashboards for sales, collections, and customer support, and implement the first text mining model to analyze customer satisfaction in chatbot interactions."
+                "Lideré Customer 360 Intelligence para 17M de usuarios; establecí hub unificado y SSOT a través de múltiples touchpoints.",
+                "Desarrollé dashboards ejecutivos; implementé el primer modelo de text mining para sentimiento en chatbots y analytics de fraude."
             ]
         },
         {
-            "dates": "08/2009 ‐ 10/2016",
+            "dates": "02/2013 ‐ 03/2016",
             "company": "Telefónica | Movistar",
             "url": "https://telefonica.com.pe/",
-            "title": "Customer Data Specialist",
+            "title": "Senior Executive in Marketing Analytics",
             "location": "Lima, PE",
             "bullets": [
-                "Delivered robust, customer-centric, and commercially monetizable data solutions, earning outstanding recognition for achievements.",
-                "Developed analytical models for marketing, sales, customer experience, and collections, optimizing strategies for B2C mobile prepaid, postpaid, and home services."
+                "Especialista en analítica de marketing y modelamiento estadístico para optimización de campañas y segmentación.",
+                "Desarrollé modelos de atribución y marketing mix; implementé dashboards en R Shiny y estrategias basadas en clustering."
+            ]
+        },
+        {
+            "dates": "12/2010 ‐ 01/2013",
+            "company": "Telefónica | Movistar",
+            "url": "https://telefonica.com.pe/",
+            "title": "Campaign and Performance Analyst",
+            "location": "Lima, PE",
+            "bullets": [
+                "Analítica end-to-end para portafolio digital prepago; desarrollé metodologías de tracking de conversión.",
+                "Automaticé reportes, reduciendo 50% el trabajo manual y estandarizando la medición de performance."
+            ]
+        },
+        {
+            "dates": "08/2009 ‐ 11/2010",
+            "company": "Telefónica | Movistar",
+            "url": "https://telefonica.com.pe/",
+            "title": "Market Research Intern",
+            "location": "Lima, PE",
+            "bullets": [
+                "Automaticé flujos de procesamiento de encuestas (insights en el mismo día) y realicé análisis estadísticos en SPSS.",
+                "Entregué insights cualitativos de focus groups para informar decisiones de desarrollo de productos."
             ]
         },
         {
@@ -73,8 +96,8 @@
             "title": "Professor of Applied Computational Statistics",
             "location": "Lima, PE",
             "bullets": [
-                "Design and execute curriculum incorporating real-world business case studies and data analysis projects, effectively bridging the gap between theoretical knowledge and practical application.",
-                "Mentor students on academic and career paths in data science and statistics, with several students successfully securing internships and roles in top-tier companies."
+                "Diseñé y ejecuté un currículo con casos empresariales reales y proyectos de análisis de datos, conectando teoría y práctica.",
+                "Mentoricé estudiantes en rutas académicas y de carrera en data science y estadística; varios lograron prácticas y roles en empresas top."
             ]
         }        
     ]
