@@ -3,31 +3,31 @@
     "skills": [
         {
             "category": "Data Strategy",
-            "tools": ["Data Governance", "Data Quality", "Data Monetization", "Data Privacy", "Data Security", "Data Ethics"]
+            "tools": ["Data Governance", "Data Quality", "Data Monetization", "Data Privacy", "Data Security"]
         },
         {
             "category": "Soft Skills",
-            "tools": ["Leadership", "Team Management", "Project Management", "Agile Methodologies", "Stakeholder Management"]
+            "tools": ["Leadership","Project Management", "Agile Methodologies"]
         },
         {
             "category": "Financial Skills",
-            "tools": ["Financial Modeling", "Revenue Forecasting", "Cost Analysis", "Pricing Strategy", "Profitability Analysis"]
+            "tools": ["Financial Analytics", "Revenue Modeling"]
         },
         {
-            "category": "Machine Learning",
-            "tools": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning", "Deep Learning", "Natural Language Processing"]
-        },
-        {
-            "category": "Cloud & DevOps",
-            "tools": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Terraform"]
+            "category": "Artificial Intelligence",
+            "tools": ["Supervised Learning", "Unsupervised Learning", "Agentic AI", "Genreative AI"]
         },
         {
             "category": "Data Story Telling",
-            "tools": ["Advanced Excel", "Advanced Power Point", "PowerBI", "Tableau", "Looker Studio", "QuickSight","Shiny", "Streamlit"]
+            "tools": ["Excel", "Power Point", "PowerBI", "Tableau", "Looker Studio", "QuickSight","Superset"]
         },
         {
-            "category": "Data tools",
-            "tools": ["Python", "R", "SQL", "Spark", "Hadoop", "Snowflake", "Redshift", "BigQuery", "Synapse", "CI/CD", "ML Ops", "Airflow"]
+            "category": "Data Engineering",
+            "tools": ["Python", "R", "SQL", "Spark", "Snowflake", "Redshift", "BigQuery", "Synapse"]
+        },
+        {
+            "category": "Data Architecture",
+            "tools": ["AWS", "Azure", "GCP", "CI/CD", "Airflow", "Docker", "Kubernetes"]
         }
     ]
 }

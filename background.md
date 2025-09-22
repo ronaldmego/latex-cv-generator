@@ -6,7 +6,7 @@ title: Ronald Mego - Professional Background
 <div class="professional-banner smaller">
   <div class="banner-content">
     <h1>Ronald Mego</h1>
-    <p class="tagline">Sr. Data Manager | Data Governance & Strategy | Digital AI Innovation | Telecom | Fintech</p>
+    <p class="tagline">Head of Data & Analytics | Data Governance | Generative AI | Information Technology</p>
   </div>
 </div>
 
@@ -19,8 +19,8 @@ title: Ronald Mego - Professional Background
         </a>
       </div>
       <h2>Profile</h2>
-      <p class="summary-text">Data leader with 15+ years of experience helping companies as a professional and consultant in telecom, fintech, and e-commerce industries.</p>
-      <p class="summary-text">I focus on building data-driven solutions that drive revenue growth, optimize costs, and enhance customer experience. My approach combines business strategy with technical expertise in analytics, AI, and data architecture, leading multicultural teams to deliver impactful results. I specialize in turning complex data challenges into clear insights that enable better organizational decision-making. Currently leading data & AI initiatives at Millicom | Tigo, where I develop data governance projects and implement innovative AI solutions across Latin America.</p>
+      <p class="summary-text">Ingeniero Estadístico con más de 15 años de experiencia liderando proyectos de Data Governance, Information Technology y Analytics en empresas multinacionales de telecomunicaciones, fintech y negocios digitales.</p>
+      <p class="summary-text">Con experiencia implementando Data Driven Strategies, con dominio en integración de fuentes on-premise y cloud (AWS, GCP, Azure, Snowflake), aplicando eficientemente herramientas open source con base en python. Experto en desarrollo de dashboards ejecutivos, modelos predictivos (Power BI, Tableau, Superset) y advanced analytics para revenue optimization. Líder en implementación de soluciones de Generative AI y Machine Learning, desarrollando RAG-based LLM Chatbots, next-best-offer strategies y automated insights generation para optimización operativa. Capacidad comprobada en desarrollo de Agentes IA con knowledge bases RAG usando Python opensource y cloud AWS Bedrock para casos de uso de eficiencia operativa en telecomunicaciones.</p>
     </div>
   </div>
 </div>
@@ -38,15 +38,18 @@ title: Ronald Mego - Professional Background
         </div>
         <div class="timeline-content">
           <div class="date-badge">01/2025 ‐ present</div>
-          <h3>Data Analytics and Digital Manager</h3>
+          <h3>Head of Data Analytics - Digital</h3>
           <div class="company-info">
             <a href="https://www.millicom.com/" target="_blank" class="company-link">Millicom | Tigo</a>
-            <span class="location">Panama City, PA</span>
+            <span class="location">Panamá, PA</span>
           </div>
           <div class="responsibilities">
             <ul>
-                <li>Lead and develop a Data Analytics Roadmap to enhance Tigo Users Digital experience (~50 million), leveraging AI and Machine Learning models.</li>
-                <li>Design and implement a Data Governance and Monetization Strategy to drive new revenue streams and optimize costs, aligning with the Global CDO.</li>
+                <li>Lidero el modelado, análisis y centralización de datos del ecosistema digital (App MiTigo, TigoSports, TigoTV, TigoChat, Pasarelas de Pago, Liza, Supermarket, Add Ons, Ookla, Braze) en 9 países para ~50M de usuarios.</li>
+                <li>Soy responsable de la eficiencia y disponibilidad de analítica en la nube (AWS, GCP, Azure, Snowflake), habilitando soluciones compartidas, SSOT y KPIs cross-country.</li>
+                <li>Dirijo laboratorio de Agentes de IA y analítica avanzada (RAG, LLMs, ML) para optimizar operaciones telco y generación de insights automatizados.</li>
+                <li>Orquesto gobierno de datos digitales, calidad y maestros de clientes, asegurando trazabilidad y consistencia entre productos y países.</li>
+                <li>Gestiono control de costos cloud, tuning de workloads y disponibilidad de datos para analítica descriptiva y predictiva.</li>
             </ul>
           </div>
         </div>
@@ -62,12 +65,14 @@ title: Ronald Mego - Professional Background
           <h3>Head of Data - MFS</h3>
           <div class="company-info">
             <a href="https://www.millicom.com/" target="_blank" class="company-link">Millicom | Tigo</a>
-            <span class="location">Panama City, PA</span>
+            <span class="location">Panamá, PA</span>
           </div>
           <div class="responsibilities">
             <ul>
-                <li>Leading Tigo Money's data strategy across Data Governance, analytics and dashboarding to enable monetizable use cases while ensuring compliance standards.</li>
-                <li>Implement Data Analytics tools andframewrok for Mobile Financial Services with Lending Risk management, Fraud detection and Customer Insights.</li>
+                <li>Lideré la estrategia de datos regional para Tigo Money (6 países), consolidando arquitectura analítica, modelos, procesos de calidad y costos cloud.</li>
+                <li>Implementé framework para Lending Risk, Fraud Detection, Customer Insights y reporting regulatorio, asegurando cumplimiento y eficiencia.</li>
+                <li>Sincronicé SSOT financiero regional con senior management, mejorando data accuracy, quality y velocidad de reporting.</li>
+                <li>Conseguí reducciones de costos anuales de data mediante optimización de pipelines, almacenamiento y consumo analítico.</li>
             </ul>
           </div>
         </div>
@@ -80,15 +85,17 @@ title: Ronald Mego - Professional Background
         </div>
         <div class="timeline-content">
           <div class="date-badge">12/2021 ‐ 07/2023</div>
-          <h3>Head of Marketing Analytics - MFS</h3>
+          <h3>Head of Customer Intelligence - Tigo Money</h3>
           <div class="company-info">
             <a href="https://www.millicom.com/" target="_blank" class="company-link">Millicom | Tigo</a>
-            <span class="location">Panama City, PA</span>
+            <span class="location">Panamá, PA</span>
           </div>
           <div class="responsibilities">
             <ul>
-                <li>Design and lead the Customer Segmentation and Campaign Management strategy powered by Customer Intelligence for Tigo Money, aligned with the Global CMO</li>
-                <li>Develop and implement a Digital Marketing Analytics framework to measure the effectiveness of marketing campaigns, optimizing the funnel conversion and increasing ROI.</li>
+                <li>Diseñé e implementé fuentes y modelos de datos para marketing y crecimiento de usuarios en 6 países (segmentación, SSOT, dashboards).</li>
+                <li>Habilité customer behavior analytics que impulsó 3.5x en engagement (de 2 a 7 trx por usuario) con ML y analítica de campañas.</li>
+                <li>Desarrollé marcos de medición digital y automatización para revenue management y customer engagement, optimizando costos y churn.</li>
+                <li>Construí tableros para usuarios, churn y rentabilidad, y modelos predictivos para upselling/cross-selling basados en propensión.</li>
             </ul>
           </div>
         </div>
@@ -101,15 +108,15 @@ title: Ronald Mego - Professional Background
         </div>
         <div class="timeline-content">
           <div class="date-badge">11/2019 ‐ 11/2021</div>
-          <h3>Data Manager</h3>
+          <h3>Manager of Data & Analytics</h3>
           <div class="company-info">
-            <a href="https://grupoelcomercio.com.pe/" target="_blank" class="company-link">Grupo El Comercio</a>
+            <a href="https://grupoelcomercio.com.pe/" target="_blank" class="company-link">El Comercio News & Media Group</a>
             <span class="location">Lima, PE</span>
           </div>
           <div class="responsibilities">
             <ul>
-                <li>Lead Data Governance and Develop user segmentation models and content recommendation models, supporting business objectives related to subscription growth and engagement.</li>
-                <li>Implement a zero and 1st (first) party data consolidation project into a golden record, enabling audience data monetization and the generation of new revenue streams.</li>
+                <li>Lideré la estrategia de Data Governance y monetización de audiencias; analítica centralizada en 8 marcas y migración del data lake a la nube.</li>
+                <li>Construí MDM para datos zero/first-party; consolidé 23 silos en una SSOT y estandaricé dashboards (QlikView → PowerBI).</li>
             </ul>
           </div>
         </div>
@@ -130,15 +137,15 @@ title: Ronald Mego - Professional Background
           </div>
           <div class="timeline-content">
             <div class="date-badge">11/2016 ‐ 10/2019</div>
-            <h3>Customer Insights Manager</h3>
+            <h3>Manager of Customer Intelligence</h3>
             <div class="company-info">
               <a href="https://telefonica.com.pe/" target="_blank" class="company-link">Telefonica | Movistar</a>
               <span class="location">Lima, PE</span>
             </div>
             <div class="responsibilities">
               <ul>
-                <li>Data Governance for 17 million customers across home, prepaid, and postpaid products, establishing a single source of truth (SSOT) to support the Customer 360 business strategy, enhancing customer satisfaction and campaign effectiveness.</li>
-                <li>Develop dashboards for sales, collections, and customer support, and implement the first text mining model to analyze customer satisfaction in chatbot interactions.</li>
+                <li>Lideré Customer 360 Intelligence para 17M de usuarios; establecí hub unificado y SSOT a través de múltiples touchpoints.</li>
+                <li>Desarrollé dashboards ejecutivos; implementé el primer modelo de text mining para sentimiento en chatbots y analytics de fraude.</li>
               </ul>
             </div>
           </div>
@@ -150,16 +157,58 @@ title: Ronald Mego - Professional Background
             <div class="marker-circle"></div>
           </div>
           <div class="timeline-content">
-            <div class="date-badge">08/2009 ‐ 10/2016</div>
-            <h3>Customer Data Specialist</h3>
+            <div class="date-badge">02/2013 ‐ 03/2016</div>
+            <h3>Senior Executive in Marketing Analytics</h3>
             <div class="company-info">
               <a href="https://telefonica.com.pe/" target="_blank" class="company-link">Telefónica | Movistar</a>
               <span class="location">Lima, PE</span>
             </div>
             <div class="responsibilities">
               <ul>
-                <li>Delivered robust, customer-centric, and commercially monetizable data solutions, earning outstanding recognition for achievements.</li>
-                <li>Developed analytical models for marketing, sales, customer experience, and collections, optimizing strategies for B2C mobile prepaid, postpaid, and home services.</li>
+                <li>Especialista en analítica de marketing y modelamiento estadístico para optimización de campañas y segmentación.</li>
+                <li>Desarrollé modelos de atribución y marketing mix; implementé dashboards en R Shiny y estrategias basadas en clustering.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-marker">
+            <div class="marker-line"></div>
+            <div class="marker-circle"></div>
+          </div>
+          <div class="timeline-content">
+            <div class="date-badge">12/2010 ‐ 01/2013</div>
+            <h3>Campaign and Performance Analyst</h3>
+            <div class="company-info">
+              <a href="https://telefonica.com.pe/" target="_blank" class="company-link">Telefónica | Movistar</a>
+              <span class="location">Lima, PE</span>
+            </div>
+            <div class="responsibilities">
+              <ul>
+                <li>Analítica end-to-end para portafolio digital prepago; desarrollé metodologías de tracking de conversión.</li>
+                <li>Automaticé reportes, reduciendo 50% el trabajo manual y estandarizando la medición de performance.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-marker">
+            <div class="marker-line"></div>
+            <div class="marker-circle"></div>
+          </div>
+          <div class="timeline-content">
+            <div class="date-badge">08/2009 ‐ 11/2010</div>
+            <h3>Market Research Intern</h3>
+            <div class="company-info">
+              <a href="https://telefonica.com.pe/" target="_blank" class="company-link">Telefónica | Movistar</a>
+              <span class="location">Lima, PE</span>
+            </div>
+            <div class="responsibilities">
+              <ul>
+                <li>Automaticé flujos de procesamiento de encuestas (insights en el mismo día) y realicé análisis estadísticos en SPSS.</li>
+                <li>Entregué insights cualitativos de focus groups para informar decisiones de desarrollo de productos.</li>
               </ul>
             </div>
           </div>
@@ -179,8 +228,8 @@ title: Ronald Mego - Professional Background
             </div>
             <div class="responsibilities">
               <ul>
-                <li>Design and execute curriculum incorporating real-world business case studies and data analysis projects, effectively bridging the gap between theoretical knowledge and practical application.</li>
-                <li>Mentor students on academic and career paths in data science and statistics, with several students successfully securing internships and roles in top-tier companies.</li>
+                <li>Diseñé y ejecuté un currículo con casos empresariales reales y proyectos de análisis de datos, conectando teoría y práctica.</li>
+                <li>Mentoricé estudiantes en rutas académicas y de carrera en data science y estadística; varios lograron prácticas y roles en empresas top.</li>
               </ul>
             </div>
           </div>
@@ -236,7 +285,7 @@ title: Ronald Mego - Professional Background
             <a href="https://www.credential.net/f6bd85db-4850-4f50-9609-7990eb0aaadc" target="_blank" class="school-link">Massachusetts Institute of Technology</a>
             <span class="education-period">2024 to 2024</span>
           </div>
-          <p class="education-description">Participated in an immersive program with leaders in data management at the MIT Executive Program.</p>
+          <p class="education-description">Immersive program with leaders in data management at the MIT Executive Program.</p>
         </div>
       </div>
 
@@ -258,7 +307,6 @@ title: Ronald Mego - Professional Background
             <span class="skill-tag">Data Monetization</span>
             <span class="skill-tag">Data Privacy</span>
             <span class="skill-tag">Data Security</span>
-            <span class="skill-tag">Data Ethics</span>
 
           </div>
         </div>
@@ -267,10 +315,8 @@ title: Ronald Mego - Professional Background
           <h3><i class="fas fa-users"></i> Soft Skills</h3>
           <div class="skill-tags">
             <span class="skill-tag">Leadership</span>
-            <span class="skill-tag">Team Management</span>
             <span class="skill-tag">Project Management</span>
             <span class="skill-tag">Agile Methodologies</span>
-            <span class="skill-tag">Stakeholder Management</span>
 
           </div>
         </div>
@@ -278,36 +324,19 @@ title: Ronald Mego - Professional Background
         <div class="skill-category">
           <h3><i class="fas fa-tools"></i> Financial Skills</h3>
           <div class="skill-tags">
-            <span class="skill-tag">Financial Modeling</span>
-            <span class="skill-tag">Revenue Forecasting</span>
-            <span class="skill-tag">Cost Analysis</span>
-            <span class="skill-tag">Pricing Strategy</span>
-            <span class="skill-tag">Profitability Analysis</span>
+            <span class="skill-tag">Financial Analytics</span>
+            <span class="skill-tag">Revenue Modeling</span>
 
           </div>
         </div>
 
         <div class="skill-category">
-          <h3><i class="fas fa-tools"></i> Machine Learning</h3>
+          <h3><i class="fas fa-tools"></i> Artificial Intelligence</h3>
           <div class="skill-tags">
             <span class="skill-tag">Supervised Learning</span>
             <span class="skill-tag">Unsupervised Learning</span>
-            <span class="skill-tag">Reinforcement Learning</span>
-            <span class="skill-tag">Deep Learning</span>
-            <span class="skill-tag">Natural Language Processing</span>
-
-          </div>
-        </div>
-
-        <div class="skill-category">
-          <h3><i class="fas fa-tools"></i> Cloud & DevOps</h3>
-          <div class="skill-tags">
-            <span class="skill-tag">AWS</span>
-            <span class="skill-tag">Azure</span>
-            <span class="skill-tag">GCP</span>
-            <span class="skill-tag">Docker</span>
-            <span class="skill-tag">Kubernetes</span>
-            <span class="skill-tag">Terraform</span>
+            <span class="skill-tag">Agentic AI</span>
+            <span class="skill-tag">Genreative AI</span>
 
           </div>
         </div>
@@ -315,33 +344,42 @@ title: Ronald Mego - Professional Background
         <div class="skill-category">
           <h3><i class="fas fa-chart-bar"></i> Data Story Telling</h3>
           <div class="skill-tags">
-            <span class="skill-tag">Advanced Excel</span>
-            <span class="skill-tag">Advanced Power Point</span>
+            <span class="skill-tag">Excel</span>
+            <span class="skill-tag">Power Point</span>
             <span class="skill-tag">PowerBI</span>
             <span class="skill-tag">Tableau</span>
             <span class="skill-tag">Looker Studio</span>
             <span class="skill-tag">QuickSight</span>
-            <span class="skill-tag">Shiny</span>
-            <span class="skill-tag">Streamlit</span>
+            <span class="skill-tag">Superset</span>
 
           </div>
         </div>
 
         <div class="skill-category">
-          <h3><i class="fas fa-tools"></i> Data tools</h3>
+          <h3><i class="fas fa-tools"></i> Data Engineering</h3>
           <div class="skill-tags">
             <span class="skill-tag">Python</span>
             <span class="skill-tag">R</span>
             <span class="skill-tag">SQL</span>
             <span class="skill-tag">Spark</span>
-            <span class="skill-tag">Hadoop</span>
             <span class="skill-tag">Snowflake</span>
             <span class="skill-tag">Redshift</span>
             <span class="skill-tag">BigQuery</span>
             <span class="skill-tag">Synapse</span>
+
+          </div>
+        </div>
+
+        <div class="skill-category">
+          <h3><i class="fas fa-tools"></i> Data Architecture</h3>
+          <div class="skill-tags">
+            <span class="skill-tag">AWS</span>
+            <span class="skill-tag">Azure</span>
+            <span class="skill-tag">GCP</span>
             <span class="skill-tag">CI/CD</span>
-            <span class="skill-tag">ML Ops</span>
             <span class="skill-tag">Airflow</span>
+            <span class="skill-tag">Docker</span>
+            <span class="skill-tag">Kubernetes</span>
 
           </div>
         </div>
@@ -360,13 +398,27 @@ title: Ronald Mego - Professional Background
         <h2>Certifications</h2>
 
         <div class="certification-category">
-          <h3>Specialized Programs and Diplomas</h3>
+          <h3>Data Strategy Skills</h3>
           <ul class="certification-list">
 
             <li class="certification-item">
               <div class="certification-icon"><i class="fas fa-certificate"></i></div>
               <div class="certification-info">
                 <h4>Data Monetization, Management, and Trends</h4>
+                <div class="certification-meta">
+                  <span class="certification-provider">Smart Data</span>
+                  <span class="certification-date">Sep  2025</span>
+                </div>
+                <a href="https://smartdata.com.pe/certificados/index.php?id=2025090411135562" target="_blank" class="certification-link">
+                  <i class="fas fa-external-link-alt"></i> View Credential
+                </a>
+              </div>
+            </li>
+
+            <li class="certification-item">
+              <div class="certification-icon"><i class="fas fa-certificate"></i></div>
+              <div class="certification-info">
+                <h4>Data Monetization and Management</h4>
                 <div class="certification-meta">
                   <span class="certification-provider">IEUniversity & edX</span>
                   <span class="certification-date">May  2024</span>
@@ -390,6 +442,13 @@ title: Ronald Mego - Professional Background
                 </a>
               </div>
             </li>
+
+          </ul>
+        </div>
+
+        <div class="certification-category">
+          <h3>Business Skills</h3>
+          <ul class="certification-list">
 
             <li class="certification-item">
               <div class="certification-icon"><i class="fas fa-certificate"></i></div>
@@ -423,7 +482,7 @@ title: Ronald Mego - Professional Background
         </div>
 
         <div class="certification-category">
-          <h3>Technical Skills and Certifications</h3>
+          <h3>Technical Skills</h3>
           <ul class="certification-list">
 
             <li class="certification-item">

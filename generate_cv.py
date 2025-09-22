@@ -12,7 +12,7 @@ def escape_latex_special_chars(text):
         '_': '\\_',
         '{': '\\{',
         '}': '\\}',
-        '?': '\\?',
+        '|': '\\textbar{}',
         '~': '\\textasciitilde{}',
         '^': '\\textasciicircum{}'
     }
@@ -111,20 +111,27 @@ personal_section = {k: escape_latex_special_chars(v) for k, v in personal_data.i
 work_experience_section = ""
 for experience in work_experience_data['experiences']:
     bullets = "\n".join([f"\\item {escape_latex_special_chars(bullet)}" for bullet in experience['bullets']])
+    safe_dates = escape_latex_special_chars(experience['dates'])
+    safe_company = escape_latex_special_chars(experience['company'])
+    safe_title = escape_latex_special_chars(experience['title'])
+    safe_location = escape_latex_special_chars(experience['location'])
     work_experience_section += f"""
-\\customcventry{{{experience['dates']}}}{{\\color{{blue}}\\href{{{experience['url']}}}{{{experience['company']}}}}}{{{experience['title']}}}{{{experience['location']}}}{{}}{{{{
+\\customcventry{{{safe_dates}}}{{\\color{{blue}}\\href{{{experience['url']}}}{{{safe_company}}}}}{{{safe_title}}}{{{safe_location}}}{{}}{{
 \\begin{{itemize}}[leftmargin=0.6cm, label={{\\textbullet}}, itemsep=-0.2em]
 {bullets}
-\\end{{itemize}}
-\\vspace{{-0.1em}}
-}}}}
+\\end{{itemize}}\\vspace{{-0.1em}}
+}}
 """
 
 # Convert education data to LaTeX format with escaped special characters
 education_section = ""
 for education in education_data['education']:
+    safe_dates = escape_latex_special_chars(education['dates'])
+    safe_institution = escape_latex_special_chars(education['institution'])
+    safe_degree = escape_latex_special_chars(education['degree'])
+    safe_location = escape_latex_special_chars(education['location'])
     education_section += f"""
-\\customcventry{{{education['dates']}}}{{\\color{{blue}}\\href{{{education['url']}}}{{{education['institution']}}}}}{{{education['degree']}}}{{{education['location']}}}{{}}{{{escape_latex_special_chars(education['details'])}}}
+\\customcventry{{{safe_dates}}}{{\\color{{blue}}\\href{{{education['url']}}}{{{safe_institution}}}}}{{{safe_degree}}}{{{safe_location}}}{{}}{{{escape_latex_special_chars(education['details'])}}}
 """
 
 # Convert optional_sections data to LaTeX format with escaped special characters

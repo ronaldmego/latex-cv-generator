@@ -1,0 +1,81 @@
+{
+    "experiences": [
+        {
+            "dates": "01/2025 ‐ present",
+            "company": "Millicom | Tigo",
+            "url": "https://www.millicom.com/",
+            "title": "Head of Data Analytics and Digital",
+            "location": "Panama City, PA",
+            "bullets": [
+                "Lead and develop a Data Analytics Roadmap to enhance Tigo Users Digital experience (~50 million), leveraging AI and Machine Learning models.",
+                "Design and implement a Data Governance and Monetization Strategy to drive new revenue streams and optimize costs, aligning with the Global CDO."
+            ]            
+        },
+        {
+            "dates": "08/2023 ‐ 12/2024",
+            "company": "Millicom | Tigo",
+            "url": "https://www.millicom.com/",
+            "title": "Head of Data - MFS",
+            "location": "Panama City, PA",
+            "bullets": [
+                "Leading Tigo Money's data strategy across Data Governance, analytics and dashboarding to enable monetizable use cases while ensuring compliance standards.",
+                "Implement Data Analytics tools andframewrok for Mobile Financial Services with Lending Risk management, Fraud detection and Customer Insights."
+            ]            
+        },
+        {
+            "dates": "12/2021 ‐ 07/2023",
+            "company": "Millicom | Tigo",
+            "url": "https://www.millicom.com/",
+            "title": "Head of Marketing Analytics - MFS",
+            "location": "Panama City, PA",
+            "bullets": [
+                "Design and lead the Customer Segmentation and Campaign Management strategy powered by Customer Intelligence for Tigo Money, aligned with the Global CMO",
+                "Develop and implement a Digital Marketing Analytics framework to measure the effectiveness of marketing campaigns, optimizing the funnel conversion and increasing ROI."
+            ]            
+        },        
+        {
+            "dates": "11/2019 ‐ 11/2021",
+            "company": "Grupo El Comercio",
+            "url": "https://grupoelcomercio.com.pe/",
+            "title": "Data Manager",
+            "location": "Lima, PE",
+            "bullets": [
+                "Lead Data Governance and Develop user segmentation models and content recommendation models, supporting business objectives related to subscription growth and engagement.",
+                "Implement a zero and 1st (first) party data consolidation project into a golden record, enabling audience data monetization and the generation of new revenue streams."
+            ]
+        },
+        {
+            "dates": "11/2016 ‐ 10/2019",
+            "company": "Telefonica | Movistar",
+            "url": "https://telefonica.com.pe/",
+            "title": "Customer Insights Manager",
+            "location": "Lima, PE",
+            "bullets": [
+                "Data Governance for 17 million customers across home, prepaid, and postpaid products, establishing a single source of truth (SSOT) to support the Customer 360 business strategy, enhancing customer satisfaction and campaign effectiveness.",
+                "Develop dashboards for sales, collections, and customer support, and implement the first text mining model to analyze customer satisfaction in chatbot interactions."
+            ]
+        },
+        {
+            "dates": "08/2009 ‐ 10/2016",
+            "company": "Telefónica | Movistar",
+            "url": "https://telefonica.com.pe/",
+            "title": "Customer Data Specialist",
+            "location": "Lima, PE",
+            "bullets": [
+                "Delivered robust, customer-centric, and commercially monetizable data solutions, earning outstanding recognition for achievements.",
+                "Developed analytical models for marketing, sales, customer experience, and collections, optimizing strategies for B2C mobile prepaid, postpaid, and home services."
+            ]
+        },
+        {
+            "dates": "03/2016 ‐ 08/2016",
+            "company": "Universidad Nacional de Ingenieria",
+            "url": "https://portal.uni.edu.pe/",
+            "title": "Professor of Applied Computational Statistics",
+            "location": "Lima, PE",
+            "bullets": [
+                "Design and execute curriculum incorporating real-world business case studies and data analysis projects, effectively bridging the gap between theoretical knowledge and practical application.",
+                "Mentor students on academic and career paths in data science and statistics, with several students successfully securing internships and roles in top-tier companies."
+            ]
+        }        
+    ]
+}

@@ -22,12 +22,13 @@ cv.pdf
 cv.tex
 
 # Datos personales en la carpeta Data (se reemplazarán con ejemplos)
-Data/
+
 
 # ===== ARCHIVOS TEMPORALES =====
 # Logs
 *.log
 logs/
+ref/
 
 # Archivos temporales
 *.tmp

@@ -33,6 +33,16 @@ cp -r Data-example/ Data/
 
 2. Edita los archivos JSON en la carpeta `Data/` con tu información personal.
 
+3. Dataset en inglés: si quieres generar el CV en inglés, puedes usar `Data-English/` como base. La aplicación, por defecto, lee de `Data/`. Para usar el dataset en inglés, tienes dos opciones:
+
+   - Opción rápida (sobrescribir `Data/` con inglés):
+```bash
+rm -rf Data/
+cp -r Data-English/ Data/
+```
+
+   - Opción alternativa: edita `Data/` con tus datos en inglés siguiendo la estructura de `Data-English/`.
+
 ### 2. Estructura del Proyecto
 ```
 latex-cv-generator/
@@ -90,6 +100,31 @@ docker run -v ${PWD}:/app latex-cv-generator
 
 El PDF resultante se guardará en el directorio actual como `cv.pdf`.
 
+#### Con Docker Compose
+
+Este repositorio incluye un `docker-compose.yml` para simplificar la ejecución:
+
+```bash
+docker compose build --no-cache
+docker compose run --rm app
+```
+
+Esto compilará el CV y generará `cv.pdf` en el directorio del proyecto.
+
+#### Ejecución local (sin Docker)
+
+Si prefieres usar Python localmente:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate  # En Windows: venv\Scripts\activate
+pip install -r requirements.txt
+
+python3 generate_cv.py
+python3 compile_latex.py
+python3 generate_page.py
+```
+
 ## 🔒 Privacidad y Seguridad
 
 - **Archivos ignorados**: Los archivos `cv.pdf`, `cv.tex` y la carpeta `Data/` están en `.gitignore` para proteger tu privacidad
@@ -139,6 +174,8 @@ Si encuentras errores:
 docker rmi latex-cv-generator
 docker build -t latex-cv-generator . --no-cache
 ```
+
+5. Errores LaTeX de llaves o alineación ("Missing }", "Extra alignment tab"): suelen originarse por caracteres especiales en los JSON. El proyecto ya escapa caracteres comunes (`&`, `%`, `_`, `{`, `}`, `^`, `~`, `|`, `$`, `#`). Si el error persiste, revisa `cv.log` y corrige el texto problemático en tus datos.
 
 ## 🛠️ Personalización
 
