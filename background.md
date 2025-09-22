@@ -349,7 +349,7 @@ title: Ronald Mego - Professional Background
             <span class="skill-tag">Supervised Learning</span>
             <span class="skill-tag">Unsupervised Learning</span>
             <span class="skill-tag">Agentic AI</span>
-            <span class="skill-tag">Genreative AI</span>
+            <span class="skill-tag">Generative AI</span>
 
           </div>
         </div>
@@ -417,7 +417,7 @@ title: Ronald Mego - Professional Background
             <li class="certification-item">
               <div class="certification-icon"><i class="fas fa-certificate"></i></div>
               <div class="certification-info">
-                <h4>Data Monetization, Management, and Trends</h4>
+                <h4>Data Governance</h4>
                 <div class="certification-meta">
                   <span class="certification-provider">Smart Data</span>
                   <span class="certification-date">Sep  2025</span>
