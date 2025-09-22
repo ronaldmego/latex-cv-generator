@@ -1,10 +1,16 @@
 {
     "sections": [
         {
-            "section_name": "Specialized Programs and Diplomas",
+            "section_name": "Data Strategy Skills",
             "items": [
                 {
                     "name": "Data Monetization, Management, and Trends",
+                    "date": "Sep. 2025",
+                    "url": "https://smartdata.com.pe/certificados/index.php?id=2025090411135562",
+                    "institution": "Smart Data"
+                },
+                {
+                    "name": "Data Monetization and Management",
                     "date": "May. 2024",
                     "url": "https://courses.edx.org/certificates/447c3529a7dc42aa8bf27297a97b0c88",
                     "institution": "IEUniversity & edX"
@@ -14,7 +20,12 @@
                     "date": "Jan. 2022",
                     "url": "https://certificates.emeritus.org/39607ed0-10b6-4387-be32-5b34af6a5040",
                     "institution": "Berkeley Executive Education"
-                },
+                }
+            ]
+        },
+        {
+            "section_name": "Business Skills",
+            "items": [
                 {
                     "name": "Entrepreneurship and Innovation Program",
                     "date": "May. 2018",
@@ -30,7 +41,7 @@
             ]
         },
         {
-            "section_name": "Technical Skills and Certifications",
+            "section_name": "Technical Skills",
             "items": [
                 {
                     "name": "AWS Cloud Certified Cloud Practitioner",
