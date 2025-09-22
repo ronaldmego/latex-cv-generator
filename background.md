@@ -45,11 +45,10 @@ title: Ronald Mego - Professional Background
           </div>
           <div class="responsibilities">
             <ul>
-                <li>Lidero el modelado, análisis y centralización de datos del ecosistema digital (App MiTigo, TigoSports, TigoTV, TigoChat, Pasarelas de Pago, Liza, Supermarket, Add Ons, Ookla, Braze) en 9 países para ~50M de usuarios.</li>
-                <li>Soy responsable de la eficiencia y disponibilidad de analítica en la nube (AWS, GCP, Azure, Snowflake), habilitando soluciones compartidas, SSOT y KPIs cross-country.</li>
-                <li>Dirijo laboratorio de Agentes de IA y analítica avanzada (RAG, LLMs, ML) para optimizar operaciones telco y generación de insights automatizados.</li>
-                <li>Orquesto gobierno de datos digitales, calidad y maestros de clientes, asegurando trazabilidad y consistencia entre productos y países.</li>
-                <li>Gestiono control de costos cloud, tuning de workloads y disponibilidad de datos para analítica descriptiva y predictiva.</li>
+                <li>Lidero el modelado, análisis y centralización de los datos del ecosistema digital de Tigo en los 9 países donde operamos, integrando plataformas como App MiTigo, TigoSports, TigoTV, TigoChat, Pasarelas de Pago, Bot conversacionales Liza, Supermarket, Add Ons Digitales, Ookla y analítica de marketing digital Braze.</li>
+                <li>Aseguro la estandarización, calidad de datos, maestro de clientes, gobierno de datos digitales y kpis de adopción digital por usuario B2C y B2B.</li>
+                <li>A nivel arquitectura soy responsable de la eficiencia en el uso de recursos cloud en analítica digital y su disponibilidad cross a los 9 países para analitica de +50millones de usuarios.</li>
+                <li>Lidero laboratorio de Agentes de IA, análisis descriptivo y predictivo en Data orientado a optimizar procesos de datos y operaciones telco (network analytics, knowledge bases RAG, call center speech analytics), utilizando herramientas cloud AWS Bedrock y opensource con LangChain, python y modelos LLM locales con hosting Linux server.</li>
             </ul>
           </div>
         </div>
@@ -69,10 +68,11 @@ title: Ronald Mego - Professional Background
           </div>
           <div class="responsibilities">
             <ul>
-                <li>Lideré la estrategia de datos regional para Tigo Money (6 países), consolidando arquitectura analítica, modelos, procesos de calidad y costos cloud.</li>
-                <li>Implementé framework para Lending Risk, Fraud Detection, Customer Insights y reporting regulatorio, asegurando cumplimiento y eficiencia.</li>
-                <li>Sincronicé SSOT financiero regional con senior management, mejorando data accuracy, quality y velocidad de reporting.</li>
-                <li>Conseguí reducciones de costos anuales de data mediante optimización de pipelines, almacenamiento y consumo analítico.</li>
+                <li>Lideré la estrategia de datos de Tigo Money a nivel regional, consolidando arquitectura de datos, modelos analíticos, procesos de calidad, control de costos cloud y estructura del equipo.</li>
+                <li>Implementé Data Analytics tools y framework para Mobile Financial Services con Lending Risk management, Fraud detection y Customer Insights, logrando moras en kpis de Digital Users bad debt y CAC.</li>
+                <li>Coordiné soluciones para los 6 países donde opera la billetera digital, atendiendo necesidades clave como visibilidad del negocio, cumplimiento regulatorio, prevención de fraude, modelamiento predictivo para productos de lending y segmentación avanzada para marketing con 35% reducción en costos anuales de data.</li>
+                <li>Sincronicé Single Source of Truth (SSOT) para financial reporting across 6 países colaborando con senior management, resultando en mejora en data accuracy y quality.</li>
+                <li>Responsable de ejecutar presupuesto de regional para data cloud tools alineado con estrategia Millicom Tigo Data.</li>
             </ul>
           </div>
         </div>
@@ -92,10 +92,11 @@ title: Ronald Mego - Professional Background
           </div>
           <div class="responsibilities">
             <ul>
-                <li>Diseñé e implementé fuentes y modelos de datos para marketing y crecimiento de usuarios en 6 países (segmentación, SSOT, dashboards).</li>
-                <li>Habilité customer behavior analytics que impulsó 3.5x en engagement (de 2 a 7 trx por usuario) con ML y analítica de campañas.</li>
-                <li>Desarrollé marcos de medición digital y automatización para revenue management y customer engagement, optimizando costos y churn.</li>
-                <li>Construí tableros para usuarios, churn y rentabilidad, y modelos predictivos para upselling/cross-selling basados en propensión.</li>
+                <li>Diseñé e implementé las fuentes de datos que soportaron la estrategia de marketing y crecimiento de usuarios en los 6 países donde opera Tigo Money.</li>
+                <li>Establecí la primera customer behavior analytics, enabling 3.5x increase en customer engagement de 2trx a 7trx per user, incorporando data analytics y machine learning y driving cross-selling opportunities.</li>
+                <li>Lideré la integración de datos para habilitar dashboards centralizados, segmentación estadística uniforme y acciones de marketing replicables a nivel regional.</li>
+                <li>Creé la primera revenue management y customer engagement analytics, desarrollando dashboards y automatizando data workflows para micromanage revenue opportunities y campaign measurement insights.</li>
+                <li>Desarrollé tableros para la gestión de usuarios, churn y rentabilidad, e implementé modelos predictivos para aumentar el ARPU mediante estrategias de upselling y cross-selling basadas en propensión, logrando crecimiento sostenido de base de clientes two-digit month-over-month mientras reducía constantemente costos y churn rates.</li>
             </ul>
           </div>
         </div>
@@ -115,8 +116,13 @@ title: Ronald Mego - Professional Background
           </div>
           <div class="responsibilities">
             <ul>
-                <li>Lideré la estrategia de Data Governance y monetización de audiencias; analítica centralizada en 8 marcas y migración del data lake a la nube.</li>
-                <li>Construí MDM para datos zero/first-party; consolidé 23 silos en una SSOT y estandaricé dashboards (QlikView → PowerBI).</li>
+                <li>Lideré la estrategia de Data Governance para el negocio digital del grupo mediático más importante de Perú, enfocándome en la monetización de audiencias y la optimización del engagement.</li>
+                <li>Responsable de la analítica centralizada en las 8 marcas del grupo y de apoyar la estrategia de digitalización empresarial a través del soporte de dashboards y la migración del data lake a la nube.</li>
+                <li>Desarrollé la fuente de Master Data Management (MDM) para datos de zero-party y first-party, impulsando campañas de engagement en marcas empresariales y salas de redacción.</li>
+                <li>Implementé los Playbooks de Accenture en el Dashboard de Ingresos por Publicidad Digital, consolidando 23 silos de datos en una única fuente de verdad.</li>
+                <li>Logré migrar exitosamente de QlikView a PowerBI, estandarizando dashboards y logrando eficiencia de costos.</li>
+                <li>Implementé pruebas A/B para optimizar titulares de noticias, aumentando la lectura hasta un 30%. Introduje tecnología RPA para automatización de tareas y optimización de la fuerza laboral.</li>
+                <li>Presenté en INMA, obteniendo reconocimiento por el playbook de gestión de audiencia digital.</li>
             </ul>
           </div>
         </div>
@@ -144,8 +150,12 @@ title: Ronald Mego - Professional Background
             </div>
             <div class="responsibilities">
               <ul>
-                <li>Lideré Customer 360 Intelligence para 17M de usuarios; establecí hub unificado y SSOT a través de múltiples touchpoints.</li>
-                <li>Desarrollé dashboards ejecutivos; implementé el primer modelo de text mining para sentimiento en chatbots y analytics de fraude.</li>
+                <li>Lideré la estrategia de Customer 360 Intelligence para 17 millones de usuarios, estableciendo el hub de datos unificado más avanzado del sector telco peruano.</li>
+                <li>Arquitecté el Customer Intelligence Hub Vision 360, centralizando datos estructurados y no estructurados de múltiples touchpoints para crear visión integral del customer journey.</li>
+                <li>Desarrollé modelos estadísticos avanzados para customer lifetime value, propensity modeling y fraud detection analytics usando R-Studio y SQL Server.</li>
+                <li>Implementé dashboards ejecutivos consolidados y primer sistema de text mining para sentiment analysis en chatbot interactions.</li>
+                <li>Logré 35% mejora en campaign effectiveness y establecí 'Cubo Analítico IC' acelerando decision-making para senior managment.</li>
+                <li>Implemente Fraud detection algorithms redujeron pérdidas por channel fraud en 60%. Lideré equipo de 15 analistas estableciendo centro de excelencia analítica.</li>
               </ul>
             </div>
           </div>
@@ -165,8 +175,11 @@ title: Ronald Mego - Professional Background
             </div>
             <div class="responsibilities">
               <ul>
-                <li>Especialista en analítica de marketing y modelamiento estadístico para optimización de campañas y segmentación.</li>
-                <li>Desarrollé modelos de atribución y marketing mix; implementé dashboards en R Shiny y estrategias basadas en clustering.</li>
+                <li>Especialista en marketing analytics y statistical modeling para optimización de campañas. Desarrollé frameworks estadísticos para customer segmentation y campaign effectiveness, estableciendo metodologías que se convirtieron en estándares corporativos LATAM.</li>
+                <li>Diseñé advanced marketing dashboards con R-Studio Shiny y implementé statistical segmentation models usando clustering algorithms.</li>
+                <li>Desarrollé attribution models y marketing mix modeling para medir true incremental impact de inversiones.</li>
+                <li>Apliqué ANOVA y regression modeling identificando optimal campaign timing, logrando 20% incremento en conversion rates.</li>
+                <li>Creé Official Campaign Calendar basado en statistical evidence y customer propensity models mejorando targeting accuracy 40%.</li>
               </ul>
             </div>
           </div>
@@ -186,8 +199,8 @@ title: Ronald Mego - Professional Background
             </div>
             <div class="responsibilities">
               <ul>
-                <li>Analítica end-to-end para portafolio digital prepago; desarrollé metodologías de tracking de conversión.</li>
-                <li>Automaticé reportes, reduciendo 50% el trabajo manual y estandarizando la medición de performance.</li>
+                <li>Analista especializado en performance measurement y campaign optimization para digital prepaid portfolio. Responsable de end-to-end campaign analytics desde planning hasta post-campaign analysis usando SQL y R.</li>
+                <li>Implementé automated reporting systems reduciendo manual workload 50% y desarrollé conversion tracking metodologies adoptadas como corporate standard para digital campaign measurement.</li>
               </ul>
             </div>
           </div>
@@ -207,8 +220,8 @@ title: Ronald Mego - Professional Background
             </div>
             <div class="responsibilities">
               <ul>
-                <li>Automaticé flujos de procesamiento de encuestas (insights en el mismo día) y realicé análisis estadísticos en SPSS.</li>
-                <li>Entregué insights cualitativos de focus groups para informar decisiones de desarrollo de productos.</li>
+                <li>Responsable de market research automation y statistical analysis de consumer behavior surveys. Gestioné focus groups y desarrollé insights cualitativos usando SPSS.</li>
+                <li>Automaticé survey processing workflows reduciendo time-to-insight de 5 días a mismo día. Desarrollé consumer insight reports informando product development decisions para prepaid portfolio.</li>
               </ul>
             </div>
           </div>
@@ -223,13 +236,13 @@ title: Ronald Mego - Professional Background
             <div class="date-badge">03/2016 ‐ 08/2016</div>
             <h3>Professor of Applied Computational Statistics</h3>
             <div class="company-info">
-              <a href="https://portal.uni.edu.pe/" target="_blank" class="company-link">Universidad Nacional de Ingenieria</a>
+              <a href="https://portal.uni.edu.pe/" target="_blank" class="company-link">Universidad Nacional de Ingeniería</a>
               <span class="location">Lima, PE</span>
             </div>
             <div class="responsibilities">
               <ul>
-                <li>Diseñé y ejecuté un currículo con casos empresariales reales y proyectos de análisis de datos, conectando teoría y práctica.</li>
-                <li>Mentoricé estudiantes en rutas académicas y de carrera en data science y estadística; varios lograron prácticas y roles en empresas top.</li>
+                <li>Docente universitario especializado en Statistical Computing y aplicaciones empresariales. Desarrollé curriculum innovador conectando statistical theory con business case studies reales de Telefónica (anonymized datasets), simulando situaciones empresariales donde se requerira de su expertis analitico y de storytelling.</li>
+                <li>Ayudando asi a los estudiantes en su transicion de la universidad a la empresa.</li>
               </ul>
             </div>
           </div>
