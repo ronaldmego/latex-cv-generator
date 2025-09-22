@@ -7,9 +7,11 @@
             "title": "Head of Data Analytics - Digital",
             "location": "Panamá, PA",
             "bullets": [
-                "Lidero el modelado, análisis y centralización de datos del ecosistema digital en 9 países, mejorando la experiencia de ~50M de usuarios.",
-                "Soy responsable de la eficiencia y disponibilidad de analítica en la nube, habilitando soluciones y KPIs compartidos entre países.",
-                "Dirijo laboratorio de Agentes IA y analítica avanzada (RAG, ML) para optimizar operaciones telco y generar insights."
+                "Lidero el modelado, análisis y centralización de datos del ecosistema digital (App MiTigo, TigoSports, TigoTV, TigoChat, Pasarelas de Pago, Liza, Supermarket, Add Ons, Ookla, Braze) en 9 países para ~50M de usuarios.",
+                "Soy responsable de la eficiencia y disponibilidad de analítica en la nube (AWS, GCP, Azure, Snowflake), habilitando soluciones compartidas, SSOT y KPIs cross-country.",
+                "Dirijo laboratorio de Agentes de IA y analítica avanzada (RAG, LLMs, ML) para optimizar operaciones telco y generación de insights automatizados.",
+                "Orquesto gobierno de datos digitales, calidad y maestros de clientes, asegurando trazabilidad y consistencia entre productos y países.",
+                "Gestiono control de costos cloud, tuning de workloads y disponibilidad de datos para analítica descriptiva y predictiva."
             ]            
         },
         {
@@ -19,8 +21,10 @@
             "title": "Head of Data - MFS",
             "location": "Panamá, PA",
             "bullets": [
-                "Lideré la estrategia de datos regional para Tigo Money, consolidando arquitectura, modelos analíticos, calidad y control de costos en la nube.",
-                "Implementé herramientas y framework para Lending Risk, Fraud detection y Customer Insights, reduciendo costos y asegurando cumplimiento."
+                "Lideré la estrategia de datos regional para Tigo Money (6 países), consolidando arquitectura analítica, modelos, procesos de calidad y costos cloud.",
+                "Implementé framework para Lending Risk, Fraud Detection, Customer Insights y reporting regulatorio, asegurando cumplimiento y eficiencia.",
+                "Sincronicé SSOT financiero regional con senior management, mejorando data accuracy, quality y velocidad de reporting.",
+                "Conseguí reducciones de costos anuales de data mediante optimización de pipelines, almacenamiento y consumo analítico."
             ]            
         },
         {
@@ -30,8 +34,10 @@
             "title": "Head of Customer Intelligence - Tigo Money",
             "location": "Panamá, PA",
             "bullets": [
-                "Diseñé e implementé la estrategia de segmentación y gestión de campañas basada en Customer Intelligence, alineada con el Global CMO.",
-                "Desarrollé framework de analítica de marketing digital para medir efectividad y optimizar conversión del embudo, logrando 3.5x en engagement."
+                "Diseñé e implementé fuentes y modelos de datos para marketing y crecimiento de usuarios en 6 países (segmentación, SSOT, dashboards).",
+                "Habilité customer behavior analytics que impulsó 3.5x en engagement (de 2 a 7 trx por usuario) con ML y analítica de campañas.",
+                "Desarrollé marcos de medición digital y automatización para revenue management y customer engagement, optimizando costos y churn.",
+                "Construí tableros para usuarios, churn y rentabilidad, y modelos predictivos para upselling/cross-selling basados en propensión."
             ]            
         },        
         {
