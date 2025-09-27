@@ -28,7 +28,6 @@ cv.tex
 # Logs
 *.log
 logs/
-ref/
 
 # Archivos temporales
 *.tmp
@@ -91,3 +90,4 @@ wheels/
 
 #Ignore Folder or subfolders
 ref/
+Data/
